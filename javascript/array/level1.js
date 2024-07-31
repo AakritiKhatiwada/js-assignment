@@ -3,3 +3,10 @@ const arr = [3, 4, 5];
 // find the length of the array
 //expected output is 3
 console.log(arr.length);
+
+//Q2
+//reverse the array
+const array = arr.reverse();
+console.log(array);
+
+//expected output is [5,4,3]
